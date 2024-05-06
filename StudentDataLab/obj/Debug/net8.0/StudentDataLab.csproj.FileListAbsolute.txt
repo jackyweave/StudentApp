@@ -1,0 +1,15 @@
+C:\Users\jacky\projects\repos\StudentDataLab\StudentDataLab\obj\Debug\net8.0\StudentDataLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacky\projects\repos\StudentDataLab\StudentDataLab\obj\Debug\net8.0\StudentDataLab.AssemblyInfoInputs.cache
+C:\Users\jacky\projects\repos\StudentDataLab\StudentDataLab\obj\Debug\net8.0\StudentDataLab.AssemblyInfo.cs
+C:\Users\jacky\projects\repos\StudentDataLab\StudentDataLab\obj\Debug\net8.0\StudentDataLab.csproj.CoreCompileInputs.cache
+C:\Users\jacky\projects\repos\StudentDataLab\StudentDataLab\obj\Debug\net8.0\StudentDataLab.sourcelink.json
+C:\Users\jacky\projects\repos\StudentDataLab\StudentDataLab\bin\Debug\net8.0\StudentDataLab.exe
+C:\Users\jacky\projects\repos\StudentDataLab\StudentDataLab\bin\Debug\net8.0\StudentDataLab.deps.json
+C:\Users\jacky\projects\repos\StudentDataLab\StudentDataLab\bin\Debug\net8.0\StudentDataLab.runtimeconfig.json
+C:\Users\jacky\projects\repos\StudentDataLab\StudentDataLab\bin\Debug\net8.0\StudentDataLab.dll
+C:\Users\jacky\projects\repos\StudentDataLab\StudentDataLab\bin\Debug\net8.0\StudentDataLab.pdb
+C:\Users\jacky\projects\repos\StudentDataLab\StudentDataLab\obj\Debug\net8.0\StudentDataLab.dll
+C:\Users\jacky\projects\repos\StudentDataLab\StudentDataLab\obj\Debug\net8.0\refint\StudentDataLab.dll
+C:\Users\jacky\projects\repos\StudentDataLab\StudentDataLab\obj\Debug\net8.0\StudentDataLab.pdb
+C:\Users\jacky\projects\repos\StudentDataLab\StudentDataLab\obj\Debug\net8.0\StudentDataLab.genruntimeconfig.cache
+C:\Users\jacky\projects\repos\StudentDataLab\StudentDataLab\obj\Debug\net8.0\ref\StudentDataLab.dll
